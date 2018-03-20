@@ -24,3 +24,12 @@
 /configure.log
 
 .DS_Store
+/build/CMakeFiles
+/build/Debug
+/build/Win32
+/build/*.dir
+/build/ipch
+/build/x64
+/build/*.sdf
+/build/*.opensdf
+/build/*.suo
