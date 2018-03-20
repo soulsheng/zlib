@@ -33,3 +33,4 @@
 /build/*.sdf
 /build/*.opensdf
 /build/*.suo
+/build/Release
